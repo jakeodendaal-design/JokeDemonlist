@@ -8,5 +8,11 @@
     "percentToQualify": "56",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "narwhal",
+            "link": "https://youtu.be/bYHr4pGlP98?si=ysRwzQ9TDEmyuJME",
+            "percent": 100,
+            "hz": 120
+         }
     ]
 }
